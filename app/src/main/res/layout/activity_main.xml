@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/allbg"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/Imagebook"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/aiconbook">
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/MyLib"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Imagebook"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="sans-serif-condensed"
+        android:text="PocketLibrary"
+        android:textColor="@color/black"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/LoginText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/MyLib"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center_horizontal"
+        android:text="LOGIN"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/LoginText"
+        android:layout_centerInParent="true"
+        android:text="Now carry books in your pocket ..!"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/LoginText"
+        android:layout_marginStart="30sp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="30sp"
+        android:layout_marginBottom="30sp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/phoneLog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:drawableLeft="@drawable/ic_baseline_local_phone_24"
+            android:hint="Enter your phone number"
+            android:inputType="number"
+            android:textColorHint="@color/black"
+            android:maxLines="1"/>
+
+        <EditText
+            android:id="@+id/UsernameLog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:drawableLeft="@drawable/ic_baseline_verified_user_24"
+            android:hint="Enter Your Username"
+            android:inputType="text"
+            android:textColorHint="@color/black"
+            android:maxLines="1"/>
+
+        <EditText
+            android:id="@+id/PassLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:drawableLeft="@drawable/ic_baseline_lock_24"
+            android:hint="Enter Your Password"
+            android:inputType="textPassword"
+            android:textColorHint="@color/black"
+            android:maxLines="1"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/checkRemember"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColorHint="@color/black"
+                android:textStyle="bold"
+                android:text="Remember me" />
+
+            <Button
+                android:id="@+id/LoginButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="LOGIN"
+                android:layout_marginEnd="50dp"
+                android:background="@drawable/btnbg"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:layout_marginStart="60dp">
+            </Button>
+
+        </LinearLayout>
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="NOT A USER ? "
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/regNowLog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="20dp"
+                android:textColor="@color/black"
+                android:background="@drawable/btnbg"
+                android:text="Register Now"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
+
+
+
+
+
+
+
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    xmlns:tools="http://schemas.android.com/tools"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:orientation="vertical"-->
+<!--    android:gravity="center"-->
+<!--    tools:context=".MainActivity">-->
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="login"-->
+<!--        android:textAllCaps="true"-->
+<!--        android:textStyle="bold"-->
+<!--        android:textSize="30sp"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:gravity="center"/>-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/EditName"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:hint="Enter Name"-->
+<!--        android:inputType="text"-->
+<!--        android:layout_margin="16dp"-->
+<!--        android:gravity="center"/>-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/UserName"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:inputType="text"-->
+<!--        android:hint="enter username"-->
+<!--        android:gravity="center"-->
+<!--        android:layout_margin="16dp"/>-->
+
+<!--    <CheckBox-->
+<!--        android:id="@+id/RemCheck"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Remember Me"-->
+<!--        android:textSize="20sp"/>-->
+
+<!--    <Button-->
+<!--        android:id="@+id/login"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="login"/>-->
+
+
+
+
+
+<!--</LinearLayout>-->

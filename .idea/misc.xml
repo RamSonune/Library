@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/drawable/allbg.xml" value="0.204" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/drawable/backtool.xml" value="0.204" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/drawable/btnbg.xml" value="0.204" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/drawable/internetdialog.xml" value="0.204" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/drawable/singletextool.xml" value="0.2" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/activity_book_single.xml" value="0.2" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/activity_books.xml" value="0.264" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/activity_cyber.xml" value="0.2" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/activity_inspire.xml" value="0.11499493414387031" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/activity_money.xml" value="0.264" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/activity_my_account.xml" value="0.264" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/activity_novel.xml" value="0.12047101449275362" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/activity_programming_books.xml" value="0.264" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/activity_registration.xml" value="0.264" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/activity_request.xml" value="0.264" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/internet.xml" value="0.11499493414387031" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/internet_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/list_child.xml" value="0.264" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/nav_header.xml" value="0.264" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/layout/slider_item.xml" value="0.264" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/menu/drawer_menu.xml" value="0.23282051282051283" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.107" />
+        <entry key="..\:/Users/ramso/AndroidStudioProjects/Navi1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2175" />
+        <entry key="..\:/Users/ramso/Documents/trial/Navi1/app/src/main/res/drawable/allbg.xml" value="0.2175" />
+        <entry key="..\:/Users/ramso/Documents/trial/Navi1/app/src/main/res/drawable/backtool.xml" value="0.2175" />
+        <entry key="..\:/Users/ramso/Documents/trial/Navi1/app/src/main/res/drawable/btnbg.xml" value="0.2175" />
+        <entry key="..\:/Users/ramso/Documents/trial/Navi1/app/src/main/res/layout/activity_book_single.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/ramso/Documents/trial/Navi1/app/src/main/res/layout/activity_books.xml" value="0.11499493414387031" />
+        <entry key="..\:/Users/ramso/Documents/trial/Navi1/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/ramso/Documents/trial/Navi1/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ramso/Documents/trial/Navi1/app/src/main/res/layout/activity_my_account.xml" value="0.2" />
+        <entry key="..\:/Users/ramso/Documents/trial/Navi1/app/src/main/res/layout/activity_programming_books.xml" value="0.11499493414387031" />
+        <entry key="..\:/Users/ramso/Documents/trial/Navi1/app/src/main/res/layout/activity_registration.xml" value="0.264" />
+        <entry key="..\:/Users/ramso/Documents/trial/Navi1/app/src/main/res/layout/internet_dialog.xml" value="0.264" />
+        <entry key="..\:/Users/ramso/Documents/trial/Navi1/app/src/main/res/layout/logindemo.xml" value="0.264" />
+        <entry key="..\:/Users/ramso/Documents/trial/Navi1/app/src/main/res/layout/nav_header.xml" value="0.2" />
+        <entry key="..\:/Users/ramso/Documents/trial/Navi1/app/src/main/res/menu/drawer_menu.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/ramso/Documents/trial/Navi1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2175" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

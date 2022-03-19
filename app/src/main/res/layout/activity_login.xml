@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+<!--    tools:context=".Login"-->
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:background="#C52727"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="#CD4D4D"
+                android:elevation="4dp"
+                android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="320dp">
+
+                <com.smarteist.autoimageslider.SliderView
+                    android:id="@+id/image_slider"
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    app:sliderAnimationDuration="600"
+                    app:sliderAutoCycleDirection="back_and_forth"
+                    app:sliderAutoCycleEnabled="true"
+                    app:sliderIndicatorAnimationDuration="600"
+                    app:sliderIndicatorGravity="center_horizontal|bottom"
+                    app:sliderIndicatorMargin="15dp"
+                    app:sliderIndicatorOrientation="horizontal"
+                    app:sliderIndicatorPadding="3dp"
+                    app:sliderIndicatorRadius="2dp"
+                    app:sliderIndicatorSelectedColor="#5A5A5A"
+                    app:sliderIndicatorUnselectedColor="#FFF"
+                    app:sliderScrollTimeInSec="2"
+                    app:sliderStartAutoCycle="true" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:text="Read or Download Books"
+                android:textSize="25sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+
+            <LinearLayout
+                android:layout_marginTop="30dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <androidx.cardview.widget.CardView
+                    app:cardBackgroundColor="#FFCA28"
+                    android:id="@+id/card00"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="1"
+                    app:cardCornerRadius="30sp"
+                    android:clickable="true"
+
+                    android:layout_marginBottom="15dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="vertical"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="130dp"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/pylogo" />
+
+                        <TextView
+                            android:text="Programming Books"
+                            android:textColor="@color/black"
+                            android:textStyle="bold"
+                            android:gravity="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"/>
+
+                        <TextView
+                            android:textColor="#0E164C"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="14sp"
+                            android:text="Learn the language of computer and develop awesome programs"
+                            android:gravity="center"/>
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    app:cardBackgroundColor="@color/black"
+                    android:id="@+id/card01"
+                    android:layout_weight="1"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    app:cardCornerRadius="30sp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="vertical"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/whitehat"
+                            android:scaleType="centerCrop"
+                            android:layout_width="match_parent"
+                            android:layout_height="130dp"/>
+
+                        <TextView
+                            android:text="CYBER SURAKSHA"
+                            android:textColor="@color/white"
+                            android:textStyle="bold"
+                            android:gravity="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:textColor="@color/white"
+                            android:text="Get into this section and be a Cyber Warrior!"/>
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_marginTop="30dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <androidx.cardview.widget.CardView
+                    app:cardBackgroundColor="#670E0E"
+                    android:id="@+id/card10"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="1"
+                    app:cardCornerRadius="30sp"
+                    app:cardElevation="30dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="vertical"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="130dp"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/roomonefive" />
+
+                        <TextView
+                            android:text="NOVELS"
+                            android:textStyle="italic"
+                            android:textColor="#B62032"
+                            android:gravity="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:textColor="#D32F2F"
+                            android:text="Deep dive into the ocean of imagination"/>
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+
+
+                <androidx.cardview.widget.CardView
+                    app:cardBackgroundColor="#686464"
+                    android:id="@+id/card11"
+                    android:layout_weight="1"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:layout_marginEnd="10dp"
+                    app:cardCornerRadius="30sp"
+                    app:cardElevation="30dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="vertical"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:src="@drawable/apjabdulji"
+                            android:scaleType="centerCrop"
+                            android:layout_width="match_parent"
+                            android:layout_height="130dp"/>
+
+                        <TextView
+                            android:text="INSPIRATION AND MOTIVATION"
+                            android:gravity="center"
+                            android:textColor="#494444"
+                            android:textStyle="bold"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"/>
+
+                        <TextView
+                            android:text="Awaken the giant within yourself"
+                            android:layout_width="wrap_content"
+                            android:gravity="center"
+                            android:textColor="@color/black"
+                            android:layout_height="wrap_content"/>
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+            </LinearLayout>
+
+            <androidx.cardview.widget.CardView
+                app:cardBackgroundColor="#8BC34A"
+                android:id="@+id/card20"
+                android:layout_weight="1"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="30dp"
+                android:layout_gravity="center"
+                app:cardCornerRadius="30sp"
+                app:cardElevation="30dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:src="@drawable/moneythree"
+                        android:scaleType="centerCrop"
+                        android:layout_width="match_parent"
+                        android:layout_height="130dp"/>
+
+                    <TextView
+                        android:text="MONEY MANTRA"
+                        android:gravity="center"
+                        android:textColor="#1C2E07"
+                        android:textStyle="bold"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+
+                    <TextView
+                        android:text="@string/money"
+                        android:layout_width="wrap_content"
+                        android:gravity="center"
+                        android:textColor="@color/black"
+                        android:layout_height="wrap_content"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        app:headerLayout="@layout/nav_header"
+        app:menu="@menu/drawer_menu" />
+
+
+</androidx.drawerlayout.widget.DrawerLayout>
+
+    <!--muy bonito color by ram-->
+    <!--    android:background="#FFE57F"-->
+
+
+
+    <!--    android:id="@+id/image_slider"-->
+
+    <!--the stuff with the scroll view will give an error : what do we do in the usual use of the scroll -->
+    <!--view , we put the scroll view as the top parent group .. but in the case of the nav _ bar .. if -->
+    <!--we keep the scroll view as the top parent then the app will get crash ..so avoid this ..-->
+    <!--we have to put the scroll view after the drawerLayout and in such a way that it should contain the-->
+    <!--only parent group of the views which are behind the navigation bar..-->
+    <!--for eg in this case : the LinearLayout is the parent of the view which are under the naviagation -->
+    <!--bar thus we will provide the scroll before this linearLayout and after the DrawerLayout ..-->
+
+    <!--the old stuff-->
+    <!--        <androidx.cardview.widget.CardView-->
+    <!--            android:layout_width="300dp"-->
+    <!--            android:layout_height="300dp"/>-->
+
+    <!--        <FrameLayout-->
+    <!--            android:id="@+id/fragment_container"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="match_parent" />-->

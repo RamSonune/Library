@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn ="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/my_account"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="My Account" />
+
+
+<!--        uncomment if want to use the request and also uncomment the switch of the request-->
+<!--        <item-->
+<!--            android:id="@+id/request"-->
+<!--            android:icon="@drawable/ic_request"-->
+<!--            android:title="Request Book" />-->
+
+    </group>
+
+<!--    <item android:title="Communicate">-->
+<!--        <menu>-->
+<!--            <item-->
+<!--                android:id="@+id/share"-->
+<!--                android:icon="@drawable/ic_baseline_share_24"-->
+<!--                android:title="Share" />-->
+<!--        </menu>-->
+
+<!--    </item>-->
+
+</menu>
+
+<!--unfortunately we had to remove the wishlist menu since we tried a lot but cant make it :-->
+<!--<item-->
+<!--android:id="@+id/wishlist"-->
+<!--android:icon="@drawable/wishlist_24"-->
+<!--android:title="Wishlist" />-->

@@ -1,0 +1,237 @@
+<resources>
+    changed the named of the app from mylibrary to pocketlibrary or library
+    <string name="app_name">Library</string>
+
+    <string name="app_name_pocket">PocketLibrary</string>
+
+    <string name="Mylib">MyLibrary</string>
+
+    <string name="bookName">BookName</string>
+
+    <string name="author">Author</string>
+
+    <string name="By">by</string>
+
+    <string name="android">"If you have an idea for a killer Android app, this fully revised and updated edition will get you up and running in a jiffy.
+        You\'ll go beyond syntax and how-to manuals and learn how to think like a great Android developer.This hands-on book teaches you everything from designing user interfaces to building multi-screen apps that persist data in a database.
+        It covers the latest features of Android Jetpack, including Jetpack Compose. It is like having an experienced Android developer sitting right next to you!"</string>
+
+    <string name="cprog">"This book teaches computer programming to the complete beginner using the native C language. \
+            As such, it assumes you have no knowledge whatsoever about programming.The main goal of this book is to teach fundamental programming principles using C, one of the most widely used programming languages in the world today.
+        We discuss only those features and statements in C that are necessary to achieve our goal. Once you learn the principles well, they can be applied to any language. If you are worried that you are not good at high-school mathematics, don’t be. It is a myth that you must be good at mathematics to learn programming.
+    C is considered a ‘modern’ language even though its roots date back to the 1970s. Originally, C was designed for writing ‘systems’ programs―things like operating systems, editors, compilers, assemblers and input output programs.
+    But, today, C is used for writing all kinds of applications programs as well―word processing programs, spreadsheet programs, database management programs, accounting programs, games, robots, embedded systems,
+    educational software―the list is endless." </string>
+
+    <string name="datasci"> "If you are looking for a complete guide to the Python language and its library that will help you to become an effective data analyst, this book is for you. This book contains the Python programming you need for Data Analysis. Why the AI Sciences Books are different?the AI Sciences Books explore every aspect of Artificial Intelligence and Data Science using computer Science programming language such as Python and R.
+        Our books may be the best one for beginners; it's a step-by-step guide for any person who wants to start learning Artificial Intelligence and Data Science from scratch. It will help you in preparing a solid foundation and learn any other high-level courses will be easy to you.
+        Step By Step Guide and Visual Illustrations and Examples The Book give complete instructions for manipulating, processing, cleaning, modeling and crunching datasets in Python. This is a hands-on guide with practical case studies of data analysis problems effectively.
+        You will learn pandas, NumPy, IPython, and Jupiter in the Process. Who Should Read This? This book is a practical introduction to data science tools in Python. It is ideal for analyst\’s beginners to Python and for Python programmers new to data science and computer science." </string>
+
+    <string name="machinelearn">"Do You Want to Become An Expert Of Machine Learning Start By Getting this Book and Follow the Step by Step Explanations!
+        This book is for anyone who would like to learn how to develop machine-learning systems. We will cover the most important concepts about machine learning algorithms, in both a theoretical and a practical way, and we will implement  many machine-learning algorithms using the Scikit-learn library in the Python
+        n the first chapter, you\'ll learn the most important concepts of machine learning, and, in the next chapter, you'll work mainly with the classification. In the last chapter you\'ll learn how to trai the model.
+        This book contains illustrations and step-by-step explanations with bullet points and exercises for easy and enjoyable learning."</string>
+
+    <string name="python">"Python is an interpreted, object-oriented, high-level programming language with dynamic semantics developed by Guido van Rossum. It was originally released in 1991.
+    Designed to be easy as well as fun, the name "Python" is a nod to the British comedy group Monty Python.Python has a reputation as a beginner-friendly language, replacing Java as the most widely used introductory language because it handles much of the complexity for the user, allowing beginners to focus on fully grasping programming concepts rather than minute details.
+    Python is used for server-side web development, software development, mathematics, and system scripting, and is popular for Rapid Application Development and as a scripting or glue
+    language to tie existing components because of its high-level, built-in data structures,dynamic typing, and dynamic binding.Program maintenance costs are reduced with Python due to the easily learned syntax and emphasis on readability.
+    Additionally, Python\'s support of modules and packages facilitates modular programs and reuse of code.Python is an open source community language, so numerous independent programmers are continually building libraries and functionality for it."</string>
+
+    <string name="rich">Rich Dad Poor Dad is about Robert Kiyosaki and his two dads—his real father (poor dad) and the father of his best friend (rich dad)—and the ways in which both men shaped his thoughts about money and investing.
+    This book explains several methods of managing money , saving money and how to earn the money from the money that you have.</string>
+    <string name="javascript">"JavaScript is the programming language of the web and is used by more software developers today than any other programming language. For nearly 25 years this best seller has been the go-to guide for JavaScript programmers.
+        This edition is fully updated to cover the 2020 version of JavaScript, and new chapters cover classes, modules, iterators, generators, Promises, async/await, and metaprogramming.You’ll find illuminating and engaging example code throughout.
+        This book is for programmers who want to learn JavaScript and for web developers who want to take their understanding and mastery to the next level.It begins by explaining the JavaScript language itself, in detail, from the bottom up. It then builds on that foundation to cover the web platform and Node.js.
+        Topics include:
+        1.Types, values, variables, expressions, operators, statements, objects, and arrays.
+        2.Functions, classes, modules, iterators, generators, Promises, and async/await.
+        3.JavaScript’s standard library: data structures, regular expressions, JSON, i18n, etc.
+        4.The web platform: documents, components, graphics, networking, storage, and threads.
+        5.Node.js: buffers, files, streams, threads, child processes, web clients, and web servers.
+        6.Tools and language extensions that professional JavaScript developers rely on
+Show and hide more."</string>
+
+<!--    the below section for the des of the cyber :-->
+    <string name="tancn">"The book is an introduction to computer networking for those seeking information on various aspects of establishing and maintaining wireless networks. A computer network is a group of computers that share data over a wireless or cable-connected set-up. To establish a computer network one needs to be equipped with the basic guidelines that help to lay down complex networks.
+        Tanenbaum takes a structured approach to explaining how networks work from the inside out. He starts with an explanation of the physical layer of networking, computer hardware and transmission systems; then works his way up to network applications.
+        Tanenbaum's in-depth application coverage includes email,the domain name system,the World Wide Web (both client- and server-side and multimedia including : voice over IP, Internet radio video on demand, video conferencing, and streaming media.
+        Each chapter follows a consistent approach: Tanenbaum presents key principles, then illustrates them utilizing real-world example networks that run through the entire book―the Internet, and wireless networks, including Wireless LANs, broadband wireless and Bluetooth.
+        The Fifth Edition includes a chapter devoted exclusively to network security. The textbook is supplemented by a Solutions Manual, as well as a Website containing PowerPoint slides, art in various forms, and other tools for instruction, including a protocol simulator whereby students can develop and test their own network protocols."</string>
+
+    <string name="linuxcomplete">"Your one-stop guide to Linux--fully revised and expanded
+        Get in-depth coverage of all Linux features, tools, and utilities from this thoroughly updated and comprehensive resource, designed for all Linux distributions. Written by Linux expert Richard Petersen, this book explains how to get up-and-running on Linux, use the desktops and shells, manage applications, deploy servers, implement security measures, and handle system and network administration tasks.
+        With full coverage of the latest platform, Linux: The Complete Reference, Sixth Edition includes details on the very different and popular Debian (Ubuntu) and Red Hat/Fedora software installation and service management tools used by most distributions. This is a must-have guide for all Linux users.
+        1.Install, configure, and administer any Linux distribution
+2.Work with files and folders from the BASH, TCSH, and Z shells
+3.Use the GNOME and KDE desktops, X Windows, and display managers
+4.Set up office, database, Internet, and multimedia applications
+5.Secure data using SELinux, netfilter, SSH, and Kerberos
+6.Encrypt network transmissions with GPG, LUKS, and IPsec
+7.Deploy FTP, Web, mail, proxy, print, news, and database servers
+8.Administer system resources using HAL, udev, and virtualization (KVM and Xen)
+9.Configure and maintain IPv6, DHCPv6, NIS, networking, and remote access
+10.Access remote files and devices using NFSv4, GFS, PVFS, NIS, and SAMBA"</string>
+
+    <string name="cnetspringer">"This book gives a broad look at both fundamental networking technology and new areas that support it and use it. It is a concise introduction to the most prominent, recent technological topics in computer networking. Topics include network technology such as wired and wireless networks, enabling technologies such as data centers, software defined networking, cloud and grid computing and applications such as networks on chips, space networking and network security.
+        The accessible writing style and non-mathematical treatment makes this a useful book for the student, network and communications engineer, computer scientist and IT professional.
+        • Features a concise, accessible treatment of computer networking, focusing on new technological topics.
+        • Provides non-mathematical introduction to networks in their most common forms today.
+        • Includes new developments in switching, optical networks, WiFi, Bluetooth, LTE, 5G, and quantum cryptography.
+        "</string>
+
+    <string name="linuxkali">"This practical, tutorial-style book uses the Kali Linux distribution to teach Linux basics with a focus on how hackers would use them. Topics include Linux command line basics, filesystems, networking, BASH basics, package management, logging, and the Linux kernel and drivers.
+        If you\'re getting started along the exciting path of hacking, cybersecurity, and pentesting, Linux Basics for Hackers is an excellent first step. Using Kali Linux, an advanced penetration testing distribution of Linux, you\'ll learn the basics of using the Linux operating system and acquire the tools and techniques you\'ll need to take control of a Linux environment.
+        First, you\'ll learn how to install Kali on a virtual machine and get an introduction to basic Linux concepts. Next, you\'ll tackle broader Linux topics like manipulating text, controlling file and directory permissions, and managing user environment variables.
+         You\'ll then focus in on foundational hacking concepts like security and anonymity and learn scripting skills with bash and Python. Practical tutorials and exercises throughout will reinforce and test your skills as you learn how to:
+        - Cover your tracks by changing your network information and manipulating the rsyslog logging utility
+- Write a tool to scan for network connections, and connect and listen to wireless networks
+- Keep your internet activity stealthy using Tor, proxy servers, VPNs, and encrypted email
+- Write a bash script to scan open ports for potential targets
+- Use and abuse services like MySQL, Apache web server, and OpenSSH
+- Build your own hacking tools, such as a remote video spy camera and a password cracker
+        Hacking is complex, and there is no single way in. Why not start at the beginning with Linux Basics for Hackers?"</string>
+
+    <string name="ceh">"Full Coverage of All Exam Objectives for the CEH Exams 312-50 and EC0-350
+        Thoroughly prepare for the challenging CEH Certified Ethical Hackers exam with this comprehensive study guide. The book provides full coverage of exam topics, real-world examples, two full-length practice exams and the entire book in a searchable pdf e-book.
+        What's Inside:
+        Covers ethics and legal issues, footprinting, scanning, enumeration, system hacking, trojans and backdoors, sniffers, denial of service, social engineering, session hijacking, hacking Web servers, Web application vulnerabilities, and more
+        Walks you through exam topics and includes plenty of real-world scenarios to help reinforce concepts"</string>
+
+    <string name="internetbook">"The Internet Book, Fifth Edition explains how computers communicate, what the Internet is, how the Internet works, and what services the Internet offers. It is designed for readers who do not have a strong technical background ― early chapters clearly explain the terminology and concepts needed to understand all the services. It helps the reader to understand the technology behind the Internet, appreciate how the Internet can be used, and discover why people find it so exciting. In addition, it explains the origins of the Internet and shows the reader how rapidly it has grown. It also provides information on how to avoid scams and exaggerated marketing claims.
+        The first section of the book introduces communication system concepts and terminology. The second section reviews the history of the Internet and its incredible growth. It documents the rate at which the digital revolution occurred, and provides background that will help readers appreciate the significance of the underlying design.
+        The third section describes basic Internet technology and capabilities. It examines how Internet hardware is organized and how software provides communication. This section provides the foundation for later chapters, and will help readers ask good questions and make better decisions when salespeople offer Internet products and services. The final section describes application services currently available on the Internet. For each service, the book explains both what the service offers and how the service works."</string>
+
+<!--    below is the section for the des of the novels :-->
+    <string name="thegirlinroom">"Hi, I’m Keshav, and my life is screwed. I hate my job and my girlfriend left me. Ah, the beautiful Zara. Zara is from Kashmir. She is a Muslim. And did I tell you my family is a bit, well, traditional? Anyway, leave that.
+        Zara and I broke up four years ago. She moved on in life. I didn’t. I drank every night to forget her. I called, messaged, and stalked her on social media. She just ignored me.
+        However, that night, on the eve of her birthday, Zara messaged me. She called me over, like old times, to her hostel room 105. I shouldn’t have gone, but I did… and my life changed forever.
+        This is not a love story. It is an unlove story.
+
+        From the author of Five Point Someone and 2 States, comes a fast-paced, funny and unputdownable thriller about obsessive love and finding purpose in life against the backdrop of contemporary India."</string>
+
+    <string name="addhipremika">"Half Girlfriend is a story of Bihari boy Madhav, a Hindi speaking Bihari who falls in love with Riya, an influential Delhi girl on the campus of prestigious St. Stephen’s College. Madhav belongs to middle class family, while Riya is from higher class and both have different lifestyles. Madhav proposes her, but Riya rejects the proposal because she thinks they are good as a friend only.
+        A romance novel for the young adults, Half Girlfriend is a story that has been set in different locations including Bihar, Delhi and New York; it revolves around a boy who comes from Bihar in India and his deep longing to dazzle out the girl he is in love with.
+        Highlighting the new modern love story, as the name suggests it revolves around the unique idea of half girlfriend and how modern day relationship moves from good, bad to exciting things. Meanwhile, the novel will also bestow with some beautiful sight seen of Patna (Bihar) and New York.
+        So, will Madhav succeed to make Riya fall in love with him? Will Riya accept him or not? All these answers are available in this 280 page long book. This love story is beyond live in relationship and love at first sight type of love story and Chetan Bhagat’s creative writing has made it a unique love story."</string>
+
+    <string name="fault">"I fell in love the way you fall asleep: slowly, then all at once.
+        Despite the tumour-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis.
+        But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.
+        Insightful, bold, irreverent, and raw, The Fault in Our Stars brilliantly explores the funny, thrilling, and tragic business of being alive and in love.
+"</string>
+
+    <string name="thepalace">"Taking us back to a time that is half history, half myth and wholly magical, bestselling author Chitra Banerjee Divakaruni gives voice to Panchaali, the fire-born heroine of the Mahabharata, as she weaves a vibrant retelling of an ancient epic saga.
+        Married to five royal husbands who have been cheated out of their father's kingdom, Panchaali aids their quest to reclaim their birthright, remaining at their side through years of exile and a terrible civil war. But she cannot deny her complicated friendship with the enigmatic Krishna—or her secret attraction to the mysterious man who is her husbands' most dangerous enemy—as she is caught up in the ever-manipulating hands of fate."</string>
+
+    <string name="thousandsuns">"Mariam is only fifteen when she is sent to Kabul to marry Rasheed. Nearly two decades later, a friendship grows between Mariam and a local teenager, Laila, as strong as the ties between mother and daughter. When the Taliban take over, life becomes a desperate struggle against starvation, brutality and fear. Yet love can move a person to act in unexpected ways, and lead them to overcome the most daunting obstacles with a startling heroism."</string>
+
+    <string name="kiterunner">"The #1 New York Times bestselling novel beloved by millions of readers the world over.
+        A vivid and engaging story that reminds us how long his people of Afghanistan have been struggling to triumph over the forces of violence—forces that continue to threaten them even today. –New York Times Book Review
+        The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy and the son of his father’s servant, caught in the tragic sweep of history, The Kite Runner transports readers to Afghanistan at a tense and crucial moment of change and destruction. A powerful story of friendship, it is also about the power of reading, the price of betrayal, and the possibility of redemption; and an exploration of the power of fathers over sons—their love, their sacrifices, their lies.
+        Since its publication in 2003 Kite Runner has become a beloved, one-of-a-kind classic of contemporary literature, touching millions of readers, and launching the career of one of America's most treasured writers."</string>
+
+<!--    the section for the des of the inspire books -->
+
+    <string name="wingsofire">"Every common man who by his sheer grit and hard work achieves success should share his story with the rest for they may find inspiration and strength to go on, in his story. The 'Wings of Fire' is one such autobiography by visionary scientist Dr. APJ Abdul Kalam, who from very humble beginnings rose to be the President of India. The book is full of insights, personal moments and life experiences of Dr. Kalam. It gives us an understanding on his journey of success.
+        Dr. Kalam by narrating his life journey evokes the reader to identify with one?s inner fire and potential, for he was of the firm belief that each one of us was born with the strength and potential to make a tangible change in the world. How he inspired himself to achieve dreams and how he went about accomplishing so much is what the book captures nicely.
+        The book recollects many anecdotes and stories from childhood, his time at school and college. The time spent at the Langley Research Center, NASA and Wallops Flight Facility gets a lot of attention.
+        Authored by Dr APJ Abdul Kalam and Mr. Arun Tiwari, the 180 page book 'The Wings of Fire' was first published in the year 2000. Mr Tiwari is a well-known missile scientist who has worked with Dr. Kalam. "</string>
+
+    <string name="miraclesubah">"What if you could wake up tomorrow and any-or EVERY-area of your life was beginning to transform? What would you change? The Miracle Morning is already transforming the lives of tens of thousands of people around the world by showing them how to wake up each day with more ENERGY, MOTIVATION, and FOCUS to take your life to the next level. It's been right here in front of us all along, but this book has finally brought it to life.
+        Are you ready? The next chapter of YOUR life-the most extraordinary life you've ever imagined-is about to begin. Buy the book and WAKE UP to your full potential!"</string>
+    
+    <string name="ikigai">"We all have an ikigai.
+        It's the Japanese word for ‘a reason to live’ or ‘a reason to jump out of bed in the morning’.
+        It’s the place where your needs, desires, ambitions, and satisfaction meet. A place of balance. Small wonder that finding your ikigai is closely linked to living longer.
+        Finding your ikigai is easier than you might think. This book will help you work out what your own ikigai really is, and equip you to change your life. You have a purpose in this world: your skills, your interests, your desires and your history have made you the perfect candidate for something. All you have to do is find it.
+        Do that, and you can make every single day of your life joyful and meaningful."</string>
+
+    <string name="malala">"A MEMOIR BY THE YOUNGEST RECIPIENT OF THE NOBEL PEACE PRIZE
+        'I come from a country that was created at midnight. When I almost died it was just after midday' -Malala
+        When the Taliban took control of the Swat Valley in Pakistan, one girl spoke out. Malala Yousafzai refused to be silenced and fought for her right to an education.
+        On Tuesday, October 9, 2012, when she was fifteen, she almost paid the ultimate price. She was shot in the head at point-blank range while riding the bus home from school, and few expected her to survive.
+        Instead, Malala's miraculous recovery has taken her on an extraordinary journey from a remote valley in northern Pakistan to the halls of the United Nations in New York. At sixteen, she became a global symbol of peaceful protest and the youngest nominee ever for the Nobel Peace Prize.
+        I AM MALALA is the remarkable tale of a family uprooted by global terrorism, of the fight for girls' education, of a father who, himself a school owner, championed and encouraged his daughter to write and attend school, and of brave parents who have a fierce love for their daughter in a society that prizes sons.
+        I AM MALALA will make you believe in the power of one person's voice to inspire change in the world."</string>
+
+    <string name="monksold">"The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams and Reaching Your Destiny by motivational speaker and author Robin Sharma is an inspiring tale that provides a step-by-step approach to living with greater courage, balance, abundance and joy. The Monk Who Sold His Ferrari tells the extraordinary story of Julian Mantle, a lawyer forced to confront the spiritual crisis of his out-of-balance life, and the subsequent wisdom that he gains on a life-changing odyssey that enables him to create a life of passion, purpose and peace."</string>
+
+    <string name="thinkmonk">"Jay Shetty, social media superstar and host of the #1 podcast ‘On Purpose’, distils the timeless wisdom he learned as a practising monk into practical steps anyone can take every day to live a less anxious, more meaningful life.
+Over the past three years, Jay Shetty has become one of the world’s most popular influencers. One of his clips was the most watched video on Facebook last year, with over 360 million views. His social media following totals over 32 million, he has produced over 400 viral videos, which have amassed more than 5 billion views, and his podcast, ‘On Purpose’, is consistently ranked the world’s #1 health-related podcast.
+        In this inspiring, empowering book, Shetty draws on his time as a monk in the Vedic tradition to show us how we can clear the roadblocks to our potential and power. Drawing on ancient wisdom and his own rich experiences in the ashram,'Think like a Monk'  reveals how to overcome negative thoughts and habits, and access the calm and purpose that lie within all of us.
+        The lessons monks learn are profound but often abstract. Shetty transforms them into advice and exercises we can all apply to reduce stress, improve focus, improve relationships, identify our hidden abilities, increase self-discipline and give the gifts we find in ourselves to the world. Shetty proves that everyone can – and should – think like a monk."</string>
+
+    <string name="sevenhabits">"In The 7 Habits of Highly Effective People, author Stephen R. Covey presents a holistic, integrated, principle-centered approach for solving personal and professional problems. With penetrating insights and pointed anecdotes, Covey reveals a step-by-step pathway for living with fairness, integrity, service, and human dignity—principles that give us the security to adapt to change and the wisdom and power to take advantage of the opportunities that change creates."</string>
+
+    <string name="twelverules">"The #1 Sunday Times bestseller from 'the most influential public intellectual in the Western world right now' (New York Times).
+        How should we live properly in a world of chaos and uncertainty?
+        Jordan Peterson has helped millions of people, young and old, men and women, aim at a life of responsibility and meaning. Now he can help you.
+        Drawing on his own work as a clinical psychologist and on lessons from humanity's oldest myths and stories, Peterson offers twelve profound and realistic principles to live by. After all, as he reminds us, we each have a vital role to play in the unfolding destiny of the world.
+        Deep, rewarding and enlightening, 12 Rules for Life is a lifeboat built solidly for stormy seas: ancient wisdom applied to our contemporary problems."</string>
+    
+    <string name="elon">"In Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, veteran technology journalist Ashlee Vance provides the first inside look into the extraordinary life and times of Silicon Valley's most audacious entrepreneur. Written with exclusive access to Musk, his family and friends, the book traces the entrepreneur's journey from a rough upbringing in South Africa to the pinnacle of the global business world.
+        Vance spent over 40 hours in conversation with Musk and interviewed close to 300 people to tell the tumultuous stories of Musk's world-changing companies: PayPal, Tesla Motors, SpaceX and SolarCity, and to characterize a man who has renewed American industry and sparked new levels of innovation while making plenty of enemies along the way.
+         Vance uses Musk's story to explore one of the pressing questions of our time: can the nation of inventors and creators which led the modern world for a century still compete in an age of fierce global competition? He argues that Musk--one of the most unusual and striking figures in American business history--is a contemporary amalgam of legendary inventors and industrialists like Thomas Edison, Henry Ford, Howard Hughes, and Steve Jobs.
+        More than any other entrepreneur today, Musk has dedicated his energies and his own vast fortune to inventing a future that is as rich and far-reaching as the visionaries of the golden age of science-fiction fantasy.
+        "</string>
+    
+    <string name="deepwork">"Cal Newport discusses in his new book, Deep Work: Rules For Focused Success In A Distracted World, about how professionals of today have started valuing quantity over quality; and how this has turned young professionals of today into puppets who try to indulge in extensive multitasking, dealing with multiple emails and projects. This prevents them from doing 'deep work'; which is focused work free from all other distractions. This also means that the professionals of today should sort out their priorities.
+        Newport uses principles of psychology and neuroscience to enhance his points. He elaborates how to improve a person's cognitive abilities and how employers should encourage workers to not take shortcuts for completing projects. He claims that the best way to break away from the corporate race is to take a break from technology and social media and use some alone-time to rewind and introspect. Newport enforces the beliefs of a non-technophile to deliver work that is productive and efficiently delivered."</string>
+
+    <string name="compound">"No gimmicks. No Hyperbole. No Magic Bullet. The Compound Effect is based on the principle that decisions shape your destiny. Little, everyday decisions will either take you to the life you desire or to disaster by default. Darren Hardy, publisher of Success Magazine, presents The Compound Effect, a distillation of the fundamental principles that have guided the most phenomenal achievements in business, relationships and beyond.
+        This easy-to-use, step-by-step operating system allows you to multiply your success, chart your progress and achieve any desire. If you're serious about living an extraordinary life, use the power of The Compound Effect to create the success you want."</string>
+
+<!--    the one with the money mantra des -->
+    <string name="richestbabylon">"If you have a lean purse and are looking for financial wisdom, you?ve picked the perfect book!?A PART OF ALL YOU EARN IS YOURS TO KEEP.?
+        From the importance of savings to the essentials on how to become wealthy, this collection of famous Babylonian parables imparts timeless financial wisdom. It offers insights on how to become wealthy and how to attract good luck and discusses the five laws of gold.
+        A perfect guide to understanding finances and a powerhouse of time-tested principles to gain and retain personal wealth, The Richest Man in Babylon has been inspiring readers for generations. It continues to remain a classic bestseller."</string>
+
+    <string name="psymoney">"Timeless lessons on wealth, greed, and happiness doing well with money isn?t necessarily about what you know. It?s about how you behave. And behavior is hard to teach, even to really smart people. How to manage money, invest it, and make business decisions are typically considered to involve a lot of mathematical calculations, where data and formulae tell us exactly what to do. But in the real world, people don?t make financial decisions on a spreadsheet.
+        They make them at the dinner table, or in a meeting room, where personal history, your unique view of the world, ego, pride, marketing, and odd incentives are scrambled together. In the psychology of money, the author shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life?s most important matters."</string>
+    
+    <string name="richdad">"It's been nearly 25 years since Robert Kiyosaki’s Rich Dad Poor Dad first made waves in the Personal Finance arena.It has since become the #1 Personal Finance book of all time... translated into dozens of languages and sold around the world.
+        Rich Dad Poor Dad is Robert's story of growing up with two dads — his real father and the father of his best friend, his rich dad — and the ways in which both men shaped his thoughts about money and investing. The book explodes the myth that you need to earn a high income to be rich and explains the difference between working for money and having your money work for you.
+        Rich Dad Poor Dad...
+• Explodes the myth that you need to earn a high income to become rich
+• Challenges the belief that your house is an asset
+• Shows parents why they can't rely on the school system to teach their kids
+about money
+• Defines once and for all an asset and a liability
+• Teaches you what to teach your kids about money for their future financial
+success"</string>
+
+    <string name="thinkandgrow">"Think and Grow Rich has earned itself The reputation of being considered a textbook for actionable techniques that can help one get better at doing anything, not just by rich and wealthy, but also by people doing wonderful work in their respective fields. There are hundreds and thousands of successful people in the world who can vouch for the contents of this book. At the time of authors death, about 20 million copies had already been sold.
+        Numerous revisions have been made in the book, from time to time, to make the book more readable and comprehensible to the readers. The book details out the most fundamental questions that once bothered the author, Napoleon Hill. The author once set out on a personal quest to find out what really made some people so successful. Why is it that some people manage to remain healthy, happy and financially independent, all at the same time? Why, after all, do some end up being called as lucky?
+         The answers, no wonder, had to be no less than revelations. For more than a decade, the author interviewed some of the wealthiest and most successful people in the world. It was based on what author learnt in the process from all these people, when asked about how they achieved not just great riches but also personal wellbeing.
+        The author formulated hundreds and thousands of answers, into concise principles which when acted upon, many claim, can help one achieve unprecedented success. The author has in many places narrated short stories and examples that help explain the concept at hand in an engaging manner. Think and Grow Rich teaches not just concepts but also methods.
+        Till date, it remains the number one self help book in the world!!"</string>
+
+    <string name="learntoearn">"Learn to Earn - A Beginner's Guide to The Basics of Investing and Business was written to fulfill two reasons, one was to make sure that the 'rich get richer, poor get poorer' principle doesn't dwell in business for long. The second reason was to let the common people make a living out of associating with the brands they use every day.
+        Almost every second teenager wears a Nike product to a basketball game. Three out of five families stop at a McDonalds for lunch during a road trip. Nestle is much more than just a household name. and State Bank of India holds the largest number of savings bank accounts in the country. Yet, how many of these customers are investing in their relationships with these brands? More importantly, how many are aware that they can? This book is for those who are not making use of this.
+        Not only do the authors, Lynch and Rothchild, explain that you don't have to know it all to make it big in business but they also go a step ahead and tell you how to earn out of every sip of Coca Cola you swallow. Learn to Earn - A Beginner's Guide to The Basics of Investing and Business is not just a guide to the basics of investing and business but it is also a guide to setting your own milestones. The book also tells you the best ways of achieving these milestones. This book was published by Simon and Schuster in 1996 and is available in paperback.
+        Key Features:
+        1.This book is relevant for ages ranging from high school students to retired professionals.
+        2.Be it creating your own investing opportunities or finding the ones most suited to you, this book brings to light mind blowing facts you never knew could make you richer."</string>
+
+    <string name="shoedog">"Fresh out of business school, Phil Knight borrowed fifty dollars from his father and launched a company with one simple mission: import high-quality, low-cost running shoes from Japan. Selling the shoes from the trunk of his car in 1963, Knight grossed eight thousand dollars that first year. Today, Nike’s annual sales top $30 billion. In this age of start-ups, Knight’s Nike is the gold standard, and its swoosh is one of the few icons instantly recognized in every corner of the world.
+        But Knight, the man behind the swoosh, has always been a mystery. In Shoe Dog, he tells his story at last. At twenty-four, Knight decides that rather than work for a big corporation, he will create something all his own, new, dynamic, different. He details the many risks he encountered, the crushing setbacks, the ruthless competitors and hostile bankers—as well as his many thrilling triumphs.
+        Above all, he recalls the relationships that formed the heart and soul of Nike, with his former track coach, the irascible and charismatic Bill Bowerman, and with his first employees, a ragtag group of misfits and savants who quickly became a band of swoosh-crazed brothers.
+        Together, harnessing the electrifying power of a bold vision and a shared belief in the transformative power of sports, they created a brand—and a culture—that changed everything.
+        "</string>
+
+    <string name="fourhour">"Forget the old concept of retirement and the rest of the deferred-life plan–there is no need to wait and every reason not to, especially in unpredictable economic times. Whether your dream is escaping the rat race, experiencing high-end world travel, or earning a monthly five-figure income with zero management, The 4-Hour Workweek is the blueprint.
+        This step-by-step guide to luxury lifestyle design teaches:
+        • How Tim went from $40,000 per year and 80 hours per week to $40,000 per month and 4 hours per week
+• How to outsource your life to overseas virtual assistants for $5 per hour and do whatever you want
+• How blue-chip escape artists travel the world without quitting their jobs
+• How to eliminate 50% of your work in 48 hours using the principles of a forgotten Italian economist
+        • How to trade a long-haul career for short work bursts and frequent 'mini-retirements' "</string>
+    
+    <string name="open_nav">Open Navigation Drawer</string>
+
+
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="money">Understand the art behind money managment and investing and become financially wise</string>
+</resources>

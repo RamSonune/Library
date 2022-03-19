@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<!--    the fiery sun orange-->
+<!--    <gradient android:startColor="#f83600"-->
+<!--        android:endColor="#f9d423"-->
+<!--        android:angle="360"/>-->
+
+<!--    the cherry dark red -->
+    <gradient android:startColor="@color/cherryRed"
+        android:endColor="@color/cherryDarkRed"
+        android:angle="360"/>
+
+
+</shape>
